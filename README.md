@@ -19,6 +19,12 @@ This project copies a few functionalities of The Movie Database. Users can see t
 - Christian Penna Botto
 
 ---
+## 🔗Link for the deployed website
+
+- **Surge:** [The Movie Database - Replica Project](https://tmdb-replica-project.surge.sh) 
+
+---
+
 ##  🔠Conteúdos
 
 <!--ts-->
@@ -76,12 +82,6 @@ This is a Front-end project used as a study case to show my abilities in working
 ## 💡Project Wireframe
 
 ![Wireframe](/wireframe.png)
-
----
-
-## 🔗Link for the deployed website
-
-- **Surge:** [The Movie Database - Replica Project](https://tmdb-replica-project.surge.sh) 
 
 ---
 
