@@ -2,9 +2,8 @@
      The Movie Database - Replica Project
 </h1>
 
-<h4 align="left">
 This project copies a few functionalities of [**The Movie Database**](https://www.themoviedb.org/) using its own [**API**](https://developers.themoviedb.org/3/). Users can see the most popular movies and tv shows on that day and can also see more details about titles and the cast by clicking on them.
-</h4>
+
 
 ---
 
