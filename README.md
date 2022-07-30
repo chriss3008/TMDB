@@ -73,7 +73,7 @@ This is a Front-end project used as a study case to show my abilities in working
 -  [x]  You can click on any movie to load more details about it.
 -  [x]  On the Movie Details page, there is more info, like cast, crew, trailer, other recommended movies, user score, etc. 
 -  [x]  The user can click on the cast members to load more information about that person, including other movies they were featured in.
--  [x] The image in the banner can be clicked on to return to the home page.
+-  [x] The image on the banner can be clicked on to return to the home page.
 
 
 
