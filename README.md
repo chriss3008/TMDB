@@ -25,7 +25,7 @@ This project copies a few functionalities of The Movie Database. Users can see t
 
 ---
 
-##  🔠Conteúdos
+##  🔠Contents
 
 <!--ts-->
    * [About](#about)
