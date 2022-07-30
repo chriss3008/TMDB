@@ -14,7 +14,7 @@ This project copies a few functionalities of The Movie Database. Users can see t
 
 ---
 
-##  👨 Made by
+##  👨Made by
 
 - Christian Penna Botto
 
