@@ -8,7 +8,7 @@
 
 ---
 
-##  🕵 About
+##  🕵About
 
 This project copies a few functionalities of The Movie Database. Users can see the most popular movies and tv shows on that day and can also see more details about titles and the cast by clicking on them.
 
@@ -101,4 +101,4 @@ To run this project, you should:
 
 ## 📝License
 
-This project is under the [MIT](./LICENSE).license.
+This project is under the [MIT](./LICENSE) license.
