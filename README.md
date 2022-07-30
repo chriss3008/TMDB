@@ -16,7 +16,7 @@ This project copies a few functionalities of The Movie Database. Users can see t
 
 ##  👨Made by
 
-- Christian Penna Botto
+- **Christian Penna Bott** [**Christian Penna Bott**](https://github.com/chriss3008) 
 
 ---
 ## 🔗Link for the deployed website
