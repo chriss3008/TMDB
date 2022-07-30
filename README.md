@@ -2,9 +2,9 @@
      The Movie Database - Replica Project
 </h1>
 
-<h4 align="left">
+
     A replica of [**The Movie Database**](https://www.themoviedb.org/) . [**The Movie Database**](https://www.themoviedb.org/) 
-</h4>
+
 
 ---
 
