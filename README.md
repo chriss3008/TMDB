@@ -43,8 +43,6 @@ This project copies a few functionalities of [**The Movie Database**](https://ww
 
 ---
 
-
-
 ## 🔭Technologies 
 
 <!--ts-->
@@ -60,13 +58,14 @@ This project copies a few functionalities of [**The Movie Database**](https://ww
 ##  🧭Status 
 
  - ⌛ Done
+ - 
 ---
 
 ##  🎯Objetive
 
 This is a Front-end project used as a study case to show my abilities in working with the technologies described in [Technologies](#Technologies).
 
-
+---
 
 ## ☑️Functionalities
 - [x] On the homepage, the top 20 most popular movies/tv shows are rendered;
