@@ -30,12 +30,12 @@ This project copies a few functionalities of The Movie Database. Users can see t
 <!--ts-->
    * [About](#about)
    * [Made By](#made-by)
+   * [Link for the deployed website](##link-for-the-deployed-website)
    * [Status](#status)
    * [Technologies](#Technologies)
    * [Objetive](#objetive)
    * [Functionalities](#functionalities)
    * [Project Wireframe](#project-wireframe)
-   * [Link for the deployed website](#link-for-the-deployed-website)
    * [Run this project](#run-this-project)
    * [License](#license)
 <!--te-->
