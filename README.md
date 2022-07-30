@@ -8,23 +8,6 @@
 
 ---
 
-##  🕵About
-
-This project copies a few functionalities of [**The Movie Database**](https://www.themoviedb.org/) using its own [**API**](https://developers.themoviedb.org/3/). Users can see the most popular movies and tv shows on that day and can also see more details about titles and the cast by clicking on them.
-
----
-
-##  👨Made by
-
--  [**Christian Penna Botto**](https://github.com/chriss3008) 
-
----
-## 🔗Link for the deployed website
-
-- **Surge:** [The Movie Database - Replica Project](https://tmdb-replica-project.surge.sh) 
-
----
-
 ##  🔠Contents
 
 <!--ts-->
@@ -42,6 +25,25 @@ This project copies a few functionalities of [**The Movie Database**](https://ww
 
 
 ---
+
+##  🕵About
+
+This project copies a few functionalities of [**The Movie Database**](https://www.themoviedb.org/) using its own [**API**](https://developers.themoviedb.org/3/). Users can see the most popular movies and tv shows on that day and can also see more details about titles and the cast by clicking on them.
+
+---
+
+##  👨Made by
+
+-  [**Christian Penna Botto**](https://github.com/chriss3008) 
+
+---
+## 🔗Link for the deployed website
+
+- **Surge:** [The Movie Database - Replica Project](https://tmdb-replica-project.surge.sh) 
+
+---
+
+
 
 ## 🔭Technologies 
 
