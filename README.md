@@ -43,7 +43,7 @@ This project copies a few functionalities of The Movie Database. Users can see t
 
 ---
 
-##  🔠Technologies 
+## 🔠Technologies 
 
 <!--ts-->
    * Made using React
