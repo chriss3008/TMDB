@@ -8,7 +8,7 @@
 
 ---
 
-##  🕵 About
+## 🕵 About
 
 This project copies a few functionalities of The Movie Database. Users can see the most popular movies and tv shows on that day and can also see more details about titles and the cast by clicking on them.
 
@@ -30,7 +30,7 @@ This project copies a few functionalities of The Movie Database. Users can see t
 <!--ts-->
    * [About](#about)
    * [Made By](#made-by)
-   * [Link for the deployed website](##link-for-the-deployed-website)
+   * [Link for the deployed website](#link-for-the-deployed-website)
    * [Status](#status)
    * [Technologies](#Technologies)
    * [Objetive](#objetive)
