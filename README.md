@@ -65,7 +65,9 @@ This project copies a few functionalities of [**The Movie Database**](https://ww
 This is a Front-end project used as a study case to show my abilities in working with the technologies described in [Technologies](#Technologies).
 
 ---
-##  ☑️Functionalities
+
+##  🎯Functionalities
+##  ☑️
 - [x] On the homepage, the top 20 most popular movies/tv shows are rendered;
 - [x] All the movies/tv shows genres are also rendered, and they can be clicked on to filter the rendered movies/tv shows by genre (more than one genre can be chosen).
 -  [x]  There is pagination. Both the Filters and the Pagination are saved so that the user can refresh the page and their choices will still be there.
