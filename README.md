@@ -82,7 +82,7 @@ This is a Front-end project used as a study case to show my abilities in working
 
 ## 💡Project Wireframe
 
-![Wireframe](/wireframe.png)
+![Wireframe](/wireframe2.png)
 
 ---
 
