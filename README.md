@@ -95,6 +95,7 @@ To run this project, you should:
 
 - Clone this repo;
 - Run npm i;
+- Run npm start;
 - That's it :)
 
 
