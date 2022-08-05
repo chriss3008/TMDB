@@ -13,7 +13,7 @@ import { goToDetailsPage } from "../../router/coordinator";
 import { useNavigate } from "react-router-dom";
 
 // Urls
-import { url_genres } from "../../constants/urls";
+import { api_key, url_genres } from "../../constants/urls";
 import { url_popular } from "../../constants/urls";
 import { url_images } from "../../constants/urls";
 
@@ -35,7 +35,7 @@ const HomePage = () => {
 
     // States and Constants 
     const navigate = useNavigate()
-    const api_key = process.env.REACT_APP_API_KEY;
+    // const api_key = process.env.REACT_APP_API_KEY;
     let [genreSelect, setGenreSelect] = useState([])
     let [pageSelect, setPageSelect] = useState("1")
     let [movies, setMovies] = useState([])

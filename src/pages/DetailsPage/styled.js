@@ -123,6 +123,7 @@ padding-top: 20px;
 column-gap: 30px;
 @media(max-width: 800px) { 
     width:100vw;  
+    padding-left: 15px;
     }
 `
 export const DivDirector = styled.div`

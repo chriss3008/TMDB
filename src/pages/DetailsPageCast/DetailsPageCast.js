@@ -42,8 +42,6 @@ const DetailsPageCast = (props) => {
 
     const credits= useRequestData({}, `${url_person}${params.id}/combined_credits?api_key=${api_key}&language=en-US`).cast
 
-    console.log(person.name)
-
     // Render
     const RecommendationsMap = credits && credits
         .map((movie) => {
