@@ -38,7 +38,7 @@ This project copies a few functionalities of [**The Movie Database**](https://ww
 ---
 ## 🔗Link for the deployed website
 
-- **Surge:** [The Movie Database - Replica Project](https://tmdb-replica-project.surge.sh) 
+- **Surge:** [The Movie Database Project](https://tmdb-replica-project.surge.sh) 
 
 ---
 
@@ -95,6 +95,7 @@ To run this project, you should:
 
 - Clone this repo;
 - Run npm i;
+- Run npm start;
 - That's it :)
 
 
