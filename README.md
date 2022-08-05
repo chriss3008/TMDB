@@ -80,9 +80,9 @@ This is a responsive Front-end project used as a study case to show my abilities
 
 ---
 
-## 💡Project Wireframe
+## 💡Project Wireframe/Fluxogram
 
-![Wireframe](/wireframe2.png)
+![Fluxogram](/fluxogram.png)
 
 ---
 
