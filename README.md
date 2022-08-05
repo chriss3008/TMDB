@@ -49,7 +49,7 @@ This project copies a few functionalities of [**The Movie Database**](https://ww
    * Pages using Router
    * Requests using Axios
    * Styling using Styled-Components
-   * Hooks
+   * Hooks and Custom Hooks
 <!--te-->
 
 
