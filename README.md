@@ -1,8 +1,8 @@
 <h1 align="center">
-     The Movie Database - Replica Project
+     The Movie Database Project
 </h1>
 
-A replica of [**The Movie Database**](https://www.themoviedb.org/). 
+Inspired by [**The Movie Database**](https://www.themoviedb.org/). 
 
 
 ---
@@ -27,7 +27,7 @@ A replica of [**The Movie Database**](https://www.themoviedb.org/).
 
 ##  🕵About
 
-This project copies a few functionalities of [**The Movie Database**](https://www.themoviedb.org/) using its own [**API**](https://developers.themoviedb.org/3/). Users can see the most popular movies and tv shows on that day and can also see more details about titles and the cast by clicking on them.
+This project copies a few functionalities of [**The Movie Database**](https://www.themoviedb.org/) using its own [**API**](https://developers.themoviedb.org/3/). Users can see the most popular movies and tv shows on that day and can also see more details about titles and the cast by clicking on them. The site is responsive and was tested on both mobile and desktop.
 
 ---
 
@@ -62,7 +62,7 @@ This project copies a few functionalities of [**The Movie Database**](https://ww
 
 ##  🎯Objetive
 
-This is a Front-end project used as a study case to show my abilities in working with the technologies described in [Technologies](#Technologies).
+This is a responsive Front-end project used as a study case to show my abilities in working with the technologies described in [Technologies](#Technologies).
 
 ---
 
