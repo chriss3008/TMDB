@@ -69,11 +69,11 @@ This is a responsive Front-end project used as a study case to show my abilities
 ##  🔨Functionalities
  
    * On the homepage, the top 20 most popular movies/tv shows are rendered;
-   * All the movies/tv shows genres are also rendered, and they can be clicked on to filter the rendered movies/tv shows by genre (more than one genre can be chosen).
-   * There is pagination. Both the Filters and the Pagination are saved so that the user can refresh the page and their choices will still be there.
-   * You can click on any movie to load more details about it.
-   * On the Movie Details page, there is more info, like cast, crew, trailer, other recommended movies, user score, etc. 
-   * The user can click on the cast members to load more information about that person, including other movies they were featured in.
+   * All the movies/tv shows genres are also rendered, and they can be clicked on to filter the rendered movies/tv shows by genre (more than one genre can be chosen);
+   * There is pagination. Both the Filters and the Pagination are saved so that the user can refresh the page and their choices will still be there;
+   * You can click on any movie to load more details about it;
+   * On the Movie Details page, there is more info, like cast, crew, trailer, other recommended movies, user score, etc.;
+   * The user can click on the cast members to load more information about that person, including other movies they were featured in;
    * The image on the banner can be clicked on to return to the home page.
 
 
