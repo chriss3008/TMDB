@@ -17,7 +17,7 @@ Inspired by [**The Movie Database**](https://www.themoviedb.org/).
    * [Technologies](#Technologies)
    * [Objetive](#objetive)
    * [Functionalities](#functionalities)
-   * [Project Wireframe](#project-wireframe)
+   * [Project Wireframe/Fluxogram/Pictures](#project-wireframe)
    * [Run this project](#run-this-project)
    * [License](#license)
 <!--te-->
