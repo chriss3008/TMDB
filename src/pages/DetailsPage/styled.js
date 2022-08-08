@@ -25,7 +25,9 @@ color: white;
 export const ColumnOne = styled.div`
 padding-top: 40px;
 padding-left: 80px;
+width: 20%;
 @media(max-width: 800px) {
+    width: 100vw;
     padding-top: 0px;
 padding-left: 0px;
 margin: auto;
@@ -37,6 +39,7 @@ display: flex;
 flex-direction: column;
 padding-top: 30px;
 padding-left: 30px;
+width: 60vw;
 @media(max-width: 800px) {
     padding-top: 0px;
 padding-left: 0px;
@@ -48,7 +51,6 @@ export const DivScore = styled.div `
 display: flex;
 flex-direction: column;
 @media(max-width: 800px) {
-/* margin: auto; */
 padding-left: 15px;  
   }
 `
@@ -56,9 +58,11 @@ padding-left: 15px;
 export const DivOverview= styled.div `
 display: flex;
 flex-direction: column;
+width: 70%;
 @media(max-width: 800px) {
     padding-left: 15px;  
-    padding-right: 10px; 
+    padding-right: 0px; 
+    width: 90%;
   }
 `
 
@@ -80,6 +84,9 @@ font-weight: 300;
 
 export const IMG = styled.img`
 width: 300px;
+@media(max-width: 800px) {
+width: 100vw;
+  }
 `
 
 export const DivInfo = styled.h5`

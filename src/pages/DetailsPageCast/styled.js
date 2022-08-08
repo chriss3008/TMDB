@@ -52,11 +52,11 @@ img {
     height: 600px;
 }
 @media(max-width: 800px) {
+    width:100vw;
     padding-top: 20px;
-padding-left: 90px;
+    padding-left: 0px;
 img {      
-    height: 300px;
-    width: 200px;
+    width:100vw;
 }
   }
 `
