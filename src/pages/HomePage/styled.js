@@ -10,6 +10,7 @@ export const FilterContainer = styled.div`
 background-image: linear-gradient(to right bottom, #5c16c5, #5014aa, #441190, #380f76, #2d0c5e);
 height: 450px;
 display: flex;
+width: 100vw;
   flex-direction: column;
 @media(max-width: 800px) {
     width: 100vw;

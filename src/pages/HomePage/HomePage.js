@@ -35,7 +35,6 @@ const HomePage = () => {
 
     // States and Constants 
     const navigate = useNavigate()
-    // const api_key = process.env.REACT_APP_API_KEY;
     let [genreSelect, setGenreSelect] = useState([])
     let [pageSelect, setPageSelect] = useState("1")
     let [movies, setMovies] = useState([])

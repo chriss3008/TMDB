@@ -10,6 +10,7 @@ font-family: 'Roboto', sans-serif;
 export const Firstontainer = styled.div`
 background-image: linear-gradient(to right bottom, #5c16c5, #5014aa, #441190, #380f76, #2d0c5e);
 height: 450px;
+width: 100vw;
 display: flex;
 flex-direction: row;
 justify-content: 	flex-start;
@@ -122,7 +123,7 @@ height: 80px;
 padding-top: 20px;
 column-gap: 30px;
 @media(max-width: 800px) { 
-    width:100vw;  
+    width:70vw;  
     padding-left: 15px;
     }
 `
