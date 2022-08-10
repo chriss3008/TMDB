@@ -70,7 +70,7 @@ export const DivScoreOverview = styled.div `
 display: flex;
 flex-direction: row;
 column-gap:20px;
-width: 1300px;
+width: 100%;
 @media(max-width: 800px) {
     flex-direction: column;
     width:100vw;      
@@ -125,7 +125,7 @@ font-weight: bold;
 export const DivCrew = styled.div`
 display: flex;
 flex-direction: row;
-width: 700px;
+width: 100%;
 height: 80px;
 padding-top: 20px;
 column-gap: 30px;

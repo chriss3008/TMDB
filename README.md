@@ -39,7 +39,7 @@ This project copies a few functionalities of [**The Movie Database**](https://ww
 ## 🔗Link for the deployed website
 
 
-- **Surge:** [The Movie Database Project](https://tm-dv-christian-penna-botto.surge.sh/) 
+- **Surge:** [The Movie Database Project](https://christian-penna-botto-tmdb.surge.sh/) 
 
 
 ## 🔭Technologies 

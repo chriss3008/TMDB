@@ -26,7 +26,7 @@ overflow-x: auto;
 height:455px;
 column-gap: 10px;
 @media(max-width: 800px) {
-  width:100vw;
+  width:90vw;
   }
 ` 
 
